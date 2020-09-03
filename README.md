@@ -6,7 +6,7 @@ A web app to help you to breath!
 ## [View Demo](https://gabrielamcarvalho.github.io/BreatheApp/)
 
 
-##Tools 
+## Tools 
 
 :grey_exclamation: Icons: [Fontawesome](https://fontawesome.com/)
 
